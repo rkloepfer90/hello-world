@@ -1,4 +1,4 @@
 # hello-world
 hello-world guide example
 
-lazy
+being uncreative
